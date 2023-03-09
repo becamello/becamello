@@ -1,6 +1,5 @@
 ## Hello World! My name is Rebeca. 
 ### 👩🏻‍💻 I'm a Systems Analysis and Development Student.
-<br>
 
 
 #### 📚 I'm lerning about... 
