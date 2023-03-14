@@ -2,7 +2,7 @@
 ### 👩🏻‍💻 I'm a Systems Analysis and Development Student.
 
 
-#### 📚 I'm lerning about... 
+#### 📚 I'm learning about... 
     - HTML5
     - CSS3
     - JavaScript
