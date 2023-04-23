@@ -7,6 +7,7 @@
     - CSS3
     - JavaScript
     - Git
+    - Bootstrap
     - Python
               
  
