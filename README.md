@@ -6,8 +6,11 @@
     - HTML5
     - CSS3
     - JavaScript
+    - Vue.js
+    - C#
     - Git
     - Bootstrap
+    - Vuetify
     - Figma
               
  
