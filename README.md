@@ -30,7 +30,7 @@
 ### 📫 Como me encontrar:
 <p align="left">
   <a href="mailto:rebecammsilva@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Outlook" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msoutlook/msoutlook-original.svg" alt="Outlook" width="40" height="40"/>
   </a>
   <a href="mailto:rebecamellosil@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
