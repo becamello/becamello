@@ -1,9 +1,10 @@
-## 👋 Olá, mundo! Meu nome é Rebeca.
+## 👋 Olá! Meu nome é Rebeca.
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e inovação.
+✨ Sempre em busca de novos desafios e aprendizados!
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo...
+### 🚀 Tecnologias que utilizo e estou aprimorando...
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -25,21 +26,17 @@
 </div>
 
 ---
-
+ 
 ### 📫 Como me encontrar:
-<div>
-  <a href="mailto:rebecamellosil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<p align="left">
   <a href="mailto:rebecammsilva@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Outlook" width="40" height="40"/>
+  </a>
+  <a href="mailto:rebecamellosil@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/rebeca-maria-de-mello-silva-5b33b6254/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-</div>
+</p>
 
----
-
-🚀 **Sempre em busca de novos desafios e aprendizados!**  
-Se quiser trocar uma ideia sobre tecnologia, me chama! 😊  
