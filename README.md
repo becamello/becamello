@@ -1,5 +1,5 @@
 ## 👋 Olá! Meu nome é Rebeca.
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e inovação.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e inovação. <br>  
 ✨ Sempre em busca de novos desafios e aprendizados!
 
 ---
