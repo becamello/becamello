@@ -4,6 +4,7 @@
   <img alt="Rebeca Mello — Full Stack Developer" src="./assets/header-dark.svg" width="750">
 </picture>
 
+
 <br>
 <br>
 
@@ -72,9 +73,3 @@ workflow:  [Git, Cypress, Vitest, Postman]
 &nbsp;&nbsp; <a href="mailto:rebecammsilva@outlook.com">email ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/becamello?tab=repositories">all repos ↗</a>
 
 <br>
-
----
-
-<div align="right">
-  <sub><code>// made with curiosity, coffee optional.</code></sub>
-</div>
