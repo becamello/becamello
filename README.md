@@ -1,46 +1,86 @@
-## 👋 Olá! Meu nome é Rebeca.
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e inovação. <br>  
-✨ Sempre em busca de novos desafios e aprendizados!
-
----
-
-### 🚀 Tecnologias que utilizo e estou aprimorando...
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-### ⚙️ Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
-
-
-
-
----
-
-### 📊 Minhas estatísticas no GitHub:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becamello&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becamello&layout=compact&langs_count=7&theme=dracula"/>
+<div align="right">
+  <sub><code>becamello / README.md</code></sub>
 </div>
 
----
- 
-### 📫 Como me encontrar:
-<p align="left">
-  <a href="mailto:rebecamellosil@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rebeca-maria-de-mello-silva-5b33b6254/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Rebeca Mello — Full Stack Developer" src="./assets/header-dark.svg" width="750">
+</picture>
+
+<br>
+<br>
+
+```ts
+// becamello.config.ts
+
+const beca = {
+  name: "Rebeca Mello",
+  alias: "@becamello",
+  craft: "full stack development",
+
+  likes: [
+    "interfaces que fazem sentido",
+    "APIs bem resolvidas",
+    "código que eu entenda daqui a 6 meses",
+  ],
+
+  currently: "building things",
+  tabsOpen: "too many",
+} as const;
+
+export default beca;
+```
+
+<br>
+
+<a id="selected-builds"></a>
+<img src="./assets/section-builds.svg" alt="01 / selected builds" height="34">
+
+<table>
+  <tr>
+    <td valign="top"><code>01</code></td>
+    <td>
+      <b><a href="https://github.com/becamello/unCRM">unCRM ↗</a></b><br>
+      <sub>VUE.JS &nbsp;·&nbsp; C#/.NET &nbsp;·&nbsp; POSTGRESQL</sub><br><br>
+      Um CRM full stack com autenticação JWT, operações CRUD e permissões por perfil.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><code>02</code></td>
+    <td>
+      <b><a href="https://github.com/becamello/PEX-MultiAdsConnect">PEX-MultiAdsConnect ↗</a></b><br>
+      <sub>C#/.NET &nbsp;·&nbsp; GEMINI API &nbsp;·&nbsp; SWAGGER</sub><br><br>
+      Integração com API de IA e documentação de endpoints.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a id="toolbox"></a>
+<img src="./assets/section-toolbox.svg" alt="02 / toolbox" height="34">
+
+```yaml
+interface: [Vue.js, JavaScript, TypeScript, Pinia, Vuetify, PrimeVue, Bootstrap]
+server:    [C#, .NET, Node.js, REST APIs]
+data:      [PostgreSQL, SQL Server, Entity Framework]
+workflow:  [Git, Cypress, Vitest, Postman]
+```
+
+<br>
+
+<a id="elsewhere"></a>
+<img src="./assets/section-elsewhere.svg" alt="03 / elsewhere" height="34">
+
+&nbsp;&nbsp; <a href="mailto:rebecammsilva@outlook.com">email ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/becamello?tab=repositories">all repos ↗</a>
+
+<br>
+
+---
+
+<div align="right">
+  <sub><code>// made with curiosity, coffee optional.</code></sub>
+</div>
